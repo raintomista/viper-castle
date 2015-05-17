@@ -1,0 +1,10 @@
+P1
+A,B,C,D,E,F,G,H
+R,H,B,Q,K,B,H,R
+P,P,P,P,P,P,P,P
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+p,p,p,p,p,p,p,p
+r,h,b,q,k,b,h,r
